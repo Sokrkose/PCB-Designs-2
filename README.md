@@ -4,14 +4,14 @@ Here there are some of the PCBs that I designed, soldered and tested for testing
 
 ### 1. I2C Transceivers Testing 
 
-![photo](Screenshots/Screenshot_4.png)
+![photo](Screenshots/Screenshot_1.png)
 
 
 ### 2. Diamond BLM Data Aqcuisition PCB - System Level Testing 
 
-![photo](Screenshots/Screenshot_4.png)
+![photo](Screenshots/Screenshot_2.png)
 
 
 ### 3. High Speed Comparator - Component Level Testing 
 
-![photo](Screenshots/Screenshot_4.png)
+![photo](Screenshots/Screenshot_3.png)
