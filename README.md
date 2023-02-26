@@ -4,6 +4,8 @@ Here there are some of the PCBs that I designed, soldered and tested for testing
 
 ### 1. I2C Transceivers Testing 
 
+Testing of 8 I2C Transceivers under radiation in a Proton Beam Line (shown in the white circle)
+
 ![photo](Screenshot_1.png)
 
 
